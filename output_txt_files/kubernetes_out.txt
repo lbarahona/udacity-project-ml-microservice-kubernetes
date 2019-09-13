@@ -1,4 +1,3 @@
-
 lbarahona:udacity-project-ml-microservice-kubernetes lbarahona$ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "udacityproject" already exists
 NAME             READY   STATUS    RESTARTS   AGE
